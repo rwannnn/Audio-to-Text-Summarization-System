@@ -4,7 +4,7 @@
 An AI-powered system that extracts, transcribes, and summarizes audio from video files, enabling **multilingual speech recognition**, structured transcription, and concise content summaries.
 
 ---
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Whisper](https://img.shields.io/badge/Whisper-OpenAI-purple?logo=openai&logoColor=white)](https://openai.com/research/whisper)
 [![LangChain](https://img.shields.io/badge/LangChain-1.0-orange)](https://www.langchain.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
